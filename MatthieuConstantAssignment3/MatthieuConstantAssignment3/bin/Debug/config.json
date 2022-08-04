@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "carDBMdf": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\matth\\source\\repos\\MatthieuConstantAssignment3\\MatthieuConstantAssignment3\\AppData\\carDB.mdf;Database=Northwind;Connect Timeout=5;Trusted_Connection=Yes;"
+  }
+}
